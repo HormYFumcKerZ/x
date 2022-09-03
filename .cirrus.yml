@@ -4,11 +4,11 @@ env: # Environment variables to pass to all tasks
 
 # store our secrets here
     my_gh_token: "ENCRYPTED[!31b282eac918e58f307ba3105957ac3bd18cc3ea651015f03232cc1f9b659a846b72975f9dcb639779f78fa21650e52a!]"
-    github_token: "ENCRYPTED[!c03c0f090a6ca64cd9ef8c7ff7ef4dd487372a9f43e0f5338d2af08e341b1a6993608f4931e5068eceb0bad0592d717e!]"
+    github_token: "ENCRYPTED[!42c5f4329b3ff90c6799039b83d5324e8d9b3be65ca8aabaf619abaa068bc4c84b96782d39b162dafbb60f7399f8f12a!]"
     bot_api: "ENCRYPTED[!7ca1019c5fe5c0ec3066352c666675902c1275228b359a597c848196c7c9202608e0e228b8852f1dec8ec3bac703f1e7!]"
     chat_id: "-1001402365506"
     git_cookies: 0
-    REAL_REPO_OWNER: "ImSpiDy"
+    REAL_REPO_OWNER: "ENCRYPTED[!98b0cedaaf54ee89cc931f8178473ae2c7e7c3cf69557a6d421d5ae671f4eaa60e1e6a1d9000125f51daa9f5cc6e54b6!]"
 
 # store information about git here
     gmail: buildbot02@gmail.com
